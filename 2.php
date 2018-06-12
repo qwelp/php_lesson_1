@@ -84,7 +84,7 @@
     echo '<th>model</th>';
     echo '<th>speed</th>';
     echo '<th>doors</th>';
-    echo '<th>year</th>';
+    echo '<th>year </th>';
     echo '</tr>';
     foreach ($car as $k => $items) {
         echo '<tr>';
